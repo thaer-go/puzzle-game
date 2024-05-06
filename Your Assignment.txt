@@ -1,0 +1,20 @@
+
+[1] - Create html markup
+
+[2] - Styling the game blocks
+
+[3] - create the splash screen
+
+[4] - create the main variables
+
+[5] - add order css property [32:11]
+
+[6] - create shuffle function
+
+[7] - flip block function
+
+[8] - stop clicking function
+
+[9] - matched blocks function
+
+[10] - Add audio and finishing
